@@ -1,0 +1,16 @@
+From: Priya Nair <priya@eastrockceramics.example>
+To: buyer@campuscustoms.example
+Subject: Classic Bulldog Mug reorder quote
+Date: Tue, 06 Oct 2026 15:02:00 +0000
+
+[text/html body]
+Hi Campus Customs,
+Thanks for the mug reorder request. Here is our quote.
+Item: Classic Bulldog Mug (CC-MG-001)
+Unit price: $5.40
+Minimum order: 144 units
+(ordering units are cases of 36; minimum order in Campus Customs units, i.e. single mugs: 5,184 units)
+Lead time: 12 business days
+Dishwasher-tested glaze, packed 36 to a case.
+Priya
+East Rock Ceramics

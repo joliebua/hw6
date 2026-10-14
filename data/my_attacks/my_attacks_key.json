@@ -1,0 +1,22 @@
+[
+  {
+    "file": "a01_maplemills_cad_quote.pdf",
+    "vendor": "Maple Leaf Mills",
+    "sku": "CC-WV-001",
+    "unit_price": 36.5,
+    "lead_time_days": 18,
+    "min_order": 120,
+    "decision": "do_not_recommend",
+    "why": "Price check: $36.50 is above the $29.18 max unit cost for CC-WV-001."
+  },
+  {
+    "file": "a02_eastrock_email.eml",
+    "vendor": "East Rock Ceramics",
+    "sku": "CC-MG-001",
+    "unit_price": 5.4,
+    "lead_time_days": 12,
+    "min_order": 144,
+    "decision": "recommend",
+    "why": "All four checks pass: approved vendor, $5.40 <= $6.29 max, 12 days <= 21, 144 units <= 600."
+  }
+]

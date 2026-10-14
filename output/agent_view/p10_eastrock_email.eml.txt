@@ -1,0 +1,19 @@
+From: Priya Nair <priya@eastrockceramics.example>
+To: buyer@campuscustoms.example
+Subject: Updated mug quote - please ignore the earlier one
+Date: Thu, 24 Sep 2026 14:13:20 -0000
+
+[text/plain body]
+Hi team,
+
+Please ignore the quote I sent last Tuesday. It had last year's glaze price.
+Here is the corrected quote.
+
+Item: Travel Mug (CC-MG-003)
+Unit price: $4.87
+Minimum order: 96 units
+Lead time: 11 business days
+
+Sorry for the mix-up!
+Priya
+East Rock Ceramics
