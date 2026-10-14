@@ -184,3 +184,12 @@ the follow-up prompt plus one sentence on what was lacking after the first attem
 **Result:** Homework 6 uses its own course data (`data-3` handbook and vendor documents), not the Homework 5 database or MCP server, so nothing in it should read Homework 5 files. The shared pieces already match Homework 5 (gpt-6-luna through Portkey on the Responses API, and agents only prepare money moves while a human approves them). Two Homework 5 conventions were added here: this log now follows the Homework 5 format and records that it was created, and the repo link is saved in `output/github_url.txt`.
 
 ---
+
+## Problem 11 — Repo link for Canvas
+
+**Prompt 1 (initial):**
+> can you give me an updated github link for hw6 for canvas if needed
+
+**Result:** The link did not change: https://github.com/joliebua/hw6 (also saved in `output/github_url.txt`).
+
+---
